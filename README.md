@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/bart.gif" width="150">
 </h1>
 
-<h3 align="center"></h3>
 
+<h3 align="center"></h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -17,7 +17,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 </p>
-
 
 <p align="center">
 <a href="https://github.com/xqyet">
@@ -35,14 +34,17 @@
     <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=gruvbox"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=gruvbox"></a>&nbsp;
 </p>
 </details>
- 
+
+                                                                                                                                                                                                                                                    
+<badges>
 <a href="https://fakecrime.bio/xqyet" target="_blank" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
 <a href="https://xqyet.dev" target="_blank">
   <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
- 
+   
 <p align="left">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Axqyet" target="_blank">
     <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" title="Pull Requests" alt="PR Badge" />
   </a>
 </p>
+</badges>
