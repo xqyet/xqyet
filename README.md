@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/yourgif.gif" width="300" alt="Header GIF">
+  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/sea.gif" width="300" alt="Header GIF">
 </h1>
 
 <p align="center">
