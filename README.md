@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/windy.gif" width="300" alt="Header GIF">
+  <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/windy.gif" width="600" alt="Header GIF">
 </h1>
 
 <p align="center">
