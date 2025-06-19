@@ -38,8 +38,8 @@
 </p>
 </details>
  
-<a href="https://discordapp.com/users/453944662093332490" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
-<a href="https://mdinis.pt" target="_blank" ><img src="https://img.shields.io/badge/linktree-292929?style=for-the-badge&logo=linktree&logoColor=white)" title="xqyet" alt="xqyet" /></a>
+<a href="https://fakecrime.bio/xqyet" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
+<a href=" " ><img src="https://img.shields.io/badge/linktree-292929?style=for-the-badge&logo=linktree&logoColor=white)" title="xqyet" alt="xqyet" /></a>
 
 
 <!--
