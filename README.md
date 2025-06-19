@@ -41,9 +41,12 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
 <a href="https://xqyet.dev" target="_blank">
   <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
- <a href="https://github.com/pulls?q=is%3Apr+author%3Axqyet" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" title="Pull Requests" alt="PR Badge" /> </a>
-
+ 
+<p 
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Axqyet" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" title="Pull Requests" alt="PR Badge" />
+  </a>
+</p>
 <!--
 
 **JustShush/JustShush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
