@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/bart.gif" width="150">
 </h1>
 
-<p align="center">
-<a href="https://github.com/xqyet">
-    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
-</a>
-</p>
-
 <h3 align="center"></h3>
 
 <p align="center">
@@ -25,6 +19,11 @@
 </p>
 
 
+<p align="center">
+<a href="https://github.com/xqyet">
+    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
+</a>
+</p>
 
 
 <details>
