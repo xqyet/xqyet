@@ -7,10 +7,9 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
 </a>
 </p>
-
- - 🖥 I’m almost done with the <a href="https://42lisboa.com" target="_blank" >42Lisbon</a> course.
- - 📀 Check out my <a href="https://xqyet.dev/" >Website</a>
- - 💵 You can reach out to me on <a href="https://fakecrime.bio/xqyet" >Discord</a>
+ 
+ - 🖥 Check out my <a href="https://xqyet.dev/" >Website</a>
+ - 📀 You can reach out to me on <a href="https://fakecrime.bio/xqyet" >Discord</a>
 
 
 ### 🛠 &nbsp;Languages and Tools :
