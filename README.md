@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://gif-rotator.vercel.app/api/random-gif" width="200" alt="Random Header GIF">
+  <img src="https://gif-rotator.vercel.app/api/random-gif" width="150" alt="Random Header GIF">
 </h1>
 
 <p align="center">
