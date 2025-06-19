@@ -8,10 +8,6 @@
 </a>
 </p>
  
- - 🖥 Check out my <a href="https://xqyet.dev/" >Website</a>
- - 📀 You can reach out to me on <a href="https://fakecrime.bio/xqyet" >Discord</a>
-
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -28,6 +24,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 </p>
 
+
+
+
 <details>
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
@@ -39,7 +38,10 @@
 </details>
  
 <a href="https://fakecrime.bio/xqyet" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
-<a href=" " ><img src="https://img.shields.io/badge/linktree-292929?style=for-the-badge&logo=linktree&logoColor=white)" title="xqyet" alt="xqyet" /></a>
+<a href="https://xqyet.dev" target="_blank">
+  <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" />
+</a>
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Open%20and%20Merged-blue?style=for-the-badge&logo=github)
 
 
 <!--
