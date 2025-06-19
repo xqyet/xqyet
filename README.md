@@ -7,10 +7,10 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
 </a>
 </p>
- 
-### 🛠 &nbsp;Languages and Tools :
 
-<p>
+<h3 align="center"></h3>
+
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="40" height="40"/>&nbsp;
@@ -37,12 +37,12 @@
 </p>
 </details>
  
-<a href="https://fakecrime.bio/xqyet" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
+<a href="https://fakecrime.bio/xqyet" target="_blank" >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
 <a href="https://xqyet.dev" target="_blank">
-  <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" />
-</a>
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Open%20and%20Merged-blue?style=for-the-badge&logo=github)
-
+  <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
+ <a href="https://github.com/pulls?q=is%3Apr+author%3Axqyet" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" title="Pull Requests" alt="PR Badge" /> </a>
 
 <!--
 
