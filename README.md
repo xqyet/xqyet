@@ -29,9 +29,9 @@
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqyet&theme=codeSTACKr"></a>
+<a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqyet&theme=darcula"></a>
     <br>
-    <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=codeSTACKr"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=codeSTACKr"></a>&nbsp;
+    <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=darcula"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=darcula"></a>&nbsp;
 </p>
 </details>
 
