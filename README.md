@@ -43,8 +43,8 @@
   <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
    
 <p align="left">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Axqyet" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" title="Pull Requests" alt="PR Badge" />
+  <a href="https://github.com/search?q=is%3Apr+author%3Axqyet&type=issues" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Pull%20Requests-View%20on%20GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 </badges>
