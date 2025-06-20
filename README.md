@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/xqyet">
-    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
-</a>
+  <a href="https://github.com/xqyet">
+    <img src="https://github-stats-alpha.vercel.app/api?username=xqyet&cc=00000000&tc=FE8018&ic=8EC07C&bc=00000000">
+  </a>
 </p>
 
 
@@ -29,9 +29,9 @@
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqyet&theme=gruvbox"></a>
+<a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqyet&theme=codeSTACKr"></a>
     <br>
-    <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=gruvbox"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=gruvbox"></a>&nbsp;
+    <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=codeSTACKr"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=codeSTACKr"></a>&nbsp;
 </p>
 </details>
 
