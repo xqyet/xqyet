@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/xqyet/xqyet/main/media/laptop.gif" width="150">
 </h1>
 
-
 <h3 align="center"></h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>&nbsp;
@@ -24,7 +23,6 @@
   </a>
 </p>
 
-
 <details>
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
@@ -34,8 +32,7 @@
     <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=darcula"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=darcula"></a>&nbsp;
 </p>
 </details>
-
-                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                   
 <badges>
 <a href=" " target="_blank" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
