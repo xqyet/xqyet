@@ -34,9 +34,9 @@
 </details>
                                                                                                                                                                                                                                                    
 <badges>
-<a href=" " target="_blank" >
+<a href="https://fakecrime.bio/xqyet" target="_blank" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
-<a href="" target="_blank">
+<a href="https://xqyet.dev" target="_blank">
   <img src="https://img.shields.io/badge/xqyet.dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
    
 <p align="left">
