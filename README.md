@@ -31,7 +31,29 @@
     <br>
     <a href="https://github.com/xqyet?tab=repositories" target="_blank" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqyet&theme=darcula"></a><a href="https://github.com/xqyet?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqyet&theme=darcula"></a>&nbsp;
 </p>
+
+  ```javascript
+class readme {
+    constructor() {
+        this.profile = "xqyet";
+        this.role = "Software Dev";
+        this.tools = ["IntelliJ IDEA", "Neovim", "VS Code", "VS IDE", "GoLand"];
+    }
+
+    sayHi() {
+    console.log(">> user@xqyet:~$ echo 'Welcome to my page.'");
+    }
+}
+
+const me = github user();
+me.sayHi();
+```                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                    
 </details>
+
+
+
                                                                                                                                                                                                                                                    
 <badges>
 <a href="https://fakecrime.bio/xqyet" target="_blank" >
