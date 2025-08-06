@@ -36,7 +36,6 @@
 class readme {
     constructor() {
         this.profile = "xqyet";
-        this.role = "Software Dev";
         this.tools = ["IntelliJ IDEA", "Neovim", "VS Code", "VS IDE", "GoLand", "RustRover"];
     }
 
