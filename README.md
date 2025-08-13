@@ -36,7 +36,7 @@
 class readme {
     constructor() {
         this.profile = "xqyet";
-        this.tools = ["IntelliJ IDEA", "Neovim", "VS Code", "VS IDE", "GoLand", "RustRover"];
+        this.tools = ["IntelliJ IDEA", "Neovim", "Visual Studio Code", "Visual Studio 2022 IDE", "GoLand", "RustRover"];
     }
 
     sayHi() {
