@@ -55,8 +55,8 @@ me.sayHi();
 
                                                                                                                                                                                                                                                    
 <badges>
-<a href="https://fakecrime.bio/xqyet" target="_blank" >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
+<a href="_removed_" target="_blank" >
+  <img src="https://img.shields.io/badge/[removed]-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="xqyet" alt="xqyet" /></a> 
 <a href="_removed_" target="_blank">
   <img src="https://img.shields.io/badge/[removed].dev-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="xqyet.dev Badge" /> </a>
    
